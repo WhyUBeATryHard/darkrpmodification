@@ -15,7 +15,10 @@ http://wiki.darkrp.com/index.php/DarkRP:CustomJobFields
 
 Add your custom jobs under the following line:
 ---------------------------------------------------------------------------]]
-
+GAMEMODE.VIP = {
+      [TEAM_LEET]
+      [TEAM_FAGGOT]
+      [TEAM_QUEER]
 
 
 --[[---------------------------------------------------------------------------
