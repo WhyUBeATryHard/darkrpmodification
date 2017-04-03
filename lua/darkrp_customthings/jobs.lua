@@ -15,9 +15,9 @@ http://wiki.darkrp.com/index.php/DarkRP:CustomJobFields
 
 Add your custom jobs under the following line:
 ---------------------------------------------------------------------------]]
-
-
-
+GAMEMODE.VIP = {
+     [TEAM_HARRYPOTTER]
+     [TEAM_SPIDERMAN]
 --[[---------------------------------------------------------------------------
 Define which team joining players spawn into and what team you change to if demoted
 ---------------------------------------------------------------------------]]
